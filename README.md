@@ -60,8 +60,8 @@ If you're on the same journey, **let’s connect, grow, and win together!** 🚀
 ### 📌 Connect with Me
 
 💻 GitHub: [Meargteame](https://github.com/Meargteame)  
-📢 LinkedIn: [Coming soon]  
-📧 Email: [Your Email if you want to share]
+📢 LinkedIn: [https://www.linkedin.com/in/meareg-teame/]  
+📧 Email: [meareg.gebremeskel@a2sv.org]
 
 ⭐ **If you find this inspiring or useful, consider starring this repo!** ⭐
 
